@@ -88,8 +88,8 @@ const projects = () => {
               title="Portfolio-devChukz"
               img={feature1}
               summary="A feature-rich portfolio website using Next.js, Tailwind CSS and Framer-Motion. It shows details of my skills and recent projects."
-              link="/"
-              github="/"
+              link="https://portfolio-devchukz.vercel.app/"
+              github="https://github.com/devChukz/Portfolio-devChukz"
               type="Portfolio Website"
               />
             </div>
@@ -99,8 +99,8 @@ const projects = () => {
                 title="Cyril-rose Collection"
                 img={project1}
                 summary="This is landing page for a fashion brand built using TailwindCSS"
-                link="/"
-                github="/"
+                link="https://cyril-rosecollection.vercel.app/"
+                github="https://github.com/devChukz/E-commerce-Website"
                 type="E-Commerce Website"
               />
             </div>
@@ -109,8 +109,8 @@ const projects = () => {
                 title="Beat-Box"
                 img={project2}
                 summary="This is a landing page for a music playing website built using HTML, CSS and JavaScript"
-                link="/"
-                github="/"
+                link="https://github.com/devChukz/Beat-Box"
+                github="https://beat-box-iota.vercel.app/"
                 type="Music sharing website"
               />
             </div>
@@ -120,8 +120,8 @@ const projects = () => {
                 title="Crypto-Currency Landing Page"
                 img={feature2}
                 summary="A Crypto-Currency Landing page built using HTML, CSS and JavaScript"
-                link="/"
-                github="/"
+                link="https://crypto-currency-landing-page.vercel.app/"
+                github="https://github.com/devChukz/Crypto-Currency-landing-Page"
                 type="Crypto Website"
                 />
             </div>
@@ -131,8 +131,8 @@ const projects = () => {
                 title="PayMe"
                 img={project3}
                 summary="This is the official landing page for PayMe Financial technology built using TailwindCSS and Javascript."
-                link="/"
-                github="/"
+                link="https://payme-chi.vercel.app/"
+                github="https://github.com/devChukz/Banking-Website-Fintech"
                 type="Fin-tech Website"
               />
             </div>
@@ -141,8 +141,8 @@ const projects = () => {
                 title="Smart Calculator"
                 img={project4}
                 summary="Smart calculator built in with dark and light mode features using HTML, CSS and JavaScript."
-                link="/"
-                github="/"
+                link="https://smartcalculator.vercel.app/"
+                github="https://github.com/devChukz/Smart-Calculator"
                 type="Web Calculator"
               />
             </div>

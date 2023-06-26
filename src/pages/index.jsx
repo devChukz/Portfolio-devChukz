@@ -30,10 +30,10 @@ export default function Home() {
             <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
               <AnimatedText text="Hi, i'm Anigara Maduabuchukwu" className='!text-5xl !text-left xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>
               <p className='my-4 text-base font-medium md:text-sm'>
-                I am committed to transforming concepts into cutting-edge web applications as an accomplished front-end developer. View my most recent works demonstrating my React.js and web development expertise.
+                If you're looking for a highly efficient front-end developer to leverage your ideas while adhering to high design standards, look no further than me. Click the link below to download my resume or see my portfolio of 13+ responsive and user-friendly React.Js built applications; visually appealing, and adjustable across all device.
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
-                <Link href="/dummy.pdf" target={"_blank"}
+                <Link href="/ANIGARA MADUABUCHUKWU GODSDAY.CV.pdf" target={"_blank"}
                 className='flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark border-2 border-solid border-transparent hover:border-dark dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light md:p-2 md:px-4 md:text-base'
                 download={true}
                 >Resume <LinkArrow className={"w-6 ml-1"}/>
