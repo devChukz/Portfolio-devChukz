@@ -1,4 +1,3 @@
-import AnimatedText from '@/components/AnimatedText';
 import { GithubIcon } from '@/components/Icons';
 import Layout from '@/components/Layout';
 import Head from 'next/head';
@@ -8,9 +7,9 @@ import React from 'react';
 import feature1 from "../../public/images/projects/devChukz.png";
 import project1 from "../../public/images/projects/cyril-rose-collections.png";
 import project2 from "../../public/images/projects/beat-box.png";
-import feature2 from "../../public/images/projects/crypto-currency-landing-page.png";
+import feature2 from "../../public/images/projects/run-x.png";
 import project3 from "../../public/images/projects/payme.jpg";
-import project4 from "../../public/images/projects/smart-calculator.png";
+import project4 from "../../public/images/projects/crypto-currency-landing-page.png";
 import {motion} from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect';
 
@@ -117,12 +116,12 @@ const projects = () => {
 
             <div className='col-span-12'> {/* Feature 2 */}
               <FeaturedProject 
-                title="Crypto-Currency Landing Page"
+                title="runX Landing Page"
                 img={feature2}
-                summary="A Crypto-Currency Landing page built using HTML, CSS and JavaScript"
-                link="https://crypto-currency-landing-page.vercel.app/"
-                github="https://github.com/devChukz/Crypto-Currency-landing-Page"
-                type="Crypto Website"
+                summary="A showcase of my frontend development skills using Vite, React, and Tailwind CSS"
+                link="https://runx-black.vercel.app/"
+                github="https://github.com/devChukz/RunX"
+                type="Shoe Brand"
                 />
             </div>
 
@@ -138,12 +137,12 @@ const projects = () => {
             </div>
             <div className='col-span-6 sm:col-span-12'> {/* Project 4 */}
               <Project 
-                title="Smart Calculator"
+                title="Crypto-Currency Landing Page"
                 img={project4}
-                summary="Smart calculator built in with dark and light mode features using HTML, CSS and JavaScript."
-                link="https://smartcalculator.vercel.app/"
-                github="https://github.com/devChukz/Smart-Calculator"
-                type="Web Calculator"
+                summary="A Crypto-Currency Landing page built using HTML, CSS and JavaScript"
+                link="https://crypto-currency-landing-page.vercel.app/"
+                github="https://github.com/devChukz/Crypto-Currency-landing-Page"
+                type="Crypto Website"
               />
             </div>
           </div>
